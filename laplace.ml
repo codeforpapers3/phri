@@ -2,13 +2,6 @@
 (*                                                                           *)
 (*                     Formalization of Laplace Transform                    *)
 (*                                                                           *)
-(*    (c) Copyright, Adnan Rashid* & Osman Hasan**                           *)
-(*                   System Analysis and Verification (SAVe) Lab,            *)
-(*                   National University of Sciences and Technology          *)
-(*                                                                           *)
-(*     Contact: *<adnan.rashid@seecs.edu.pk>                                 *)
-(*                                                                           *)
-(* Last update: September 12, 2024                                           *)
 (*                                                                           *)
 (* ========================================================================= *)
 
