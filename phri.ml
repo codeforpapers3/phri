@@ -3,13 +3,6 @@
 (*     Formal Verification of Physical Human-Robot                           *)
 (*              Interaction using Interactive Theorem Proving                *)
 (*                                                                           *)
-(*    (c) Copyright, Sa'ed Abed*, Adnan Rashid** and Osman Hasan**           *)
-(*       *Computer Engineering Department,                                   *)
-(*         College of Engineering and Petroleum, Kuwait University, Kuwait   *)
-(*                                                                           *)
-(*       **System Analysis and Verification (SAVe) Lab,                      *)
-(*        National University of Sciences and Technology (NUST), Pakistan    *)
-(*                                                                           *)
 (* ========================================================================= *)
 
 (*===========================================================================*)
